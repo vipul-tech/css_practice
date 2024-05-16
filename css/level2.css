@@ -1,0 +1,47 @@
+#first {
+    background-color: rgb(12, 239, 15);
+}
+
+#second {
+    background-color: #af67ff;
+}
+
+#third {
+    background-color: rgba(199, 67, 201,0.5);
+}
+
+div {
+    text-align: center;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    color: #af67ff;
+    background-color: aqua;
+}
+
+div p {
+    /* background-image: url("/images/hanuman.jpg");
+    width: 100px;
+    height: 80px; */
+    background-color: aqua;
+    /* background: #ca0707 url("/images/abc.png") no-repeat right top; */
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    margin: 2px;
+}
+
+#box1 {
+    background-color: red;
+    visibility: hidden;
+}
+
+#box2 {
+    background-color: green;
+}

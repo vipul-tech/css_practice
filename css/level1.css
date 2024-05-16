@@ -1,0 +1,17 @@
+#heading {
+    color:green;
+}
+
+p {
+    color: blueviolet;
+}
+
+.head {
+    color:palegreen;
+}
+
+#first, #second {
+    color: brown;
+}
+/*It is 
+    comment*/
